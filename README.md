@@ -1,6 +1,12 @@
 # Dark-Horizon-MC-Server
 Mods and Texture Pack
 
+How to install forge for minecraft
+
+1. Download forge.jar file.
+2. Run forge.jar file
+3. Click client and install.
+
 How to install mods
 
 1. Windows Key + R
